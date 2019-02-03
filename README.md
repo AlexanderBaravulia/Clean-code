@@ -1,2 +1,2 @@
-# aircompany
-Project with "code smells" for refactoring
+# Clean-code
+Home task for topic "Clean code"
